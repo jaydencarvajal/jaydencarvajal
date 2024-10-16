@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**jaydencarvajal/jaydencarvajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Computer Science Major at Northeastern University (Class of 2028 🎓)
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
